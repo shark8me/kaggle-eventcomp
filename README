@@ -1,0 +1,4 @@
+Sources for my attempt at the kaggle event recommendation competition.
+
+Requires mongo db to be up and running.
+The actual classifier code in libSVM and Octave is not included.
